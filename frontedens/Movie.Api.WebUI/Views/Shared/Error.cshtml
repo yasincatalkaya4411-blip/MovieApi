@@ -1,0 +1,15 @@
+@model ErrorViewModel
+@{
+    ViewData["Title"] = "Hata";
+}
+
+<h1 class="text-danger">Bir Hata Oluştu</h1>
+<h2 class="text-danger">İşleminiz sırasında bir hata meydana geldi.</h2>
+<p>Lütfen tekrar deneyin veya <a asp-controller="Movie" asp-action="MovieList">Film Listesi</a> sayfasına dönün.</p>
+
+@if (Model?.ShowRequestId == true)
+{
+    <p>
+        <strong>İstek ID:</strong> <code>@Model.RequestId</code>
+    </p>
+}

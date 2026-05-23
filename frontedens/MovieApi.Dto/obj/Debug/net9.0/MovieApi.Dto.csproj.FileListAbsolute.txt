@@ -1,0 +1,11 @@
+C:\Users\yasin\source\repos\MovieApi\frontedens\MovieApi.Dto\bin\Debug\net9.0\MovieApi.Dto.deps.json
+C:\Users\yasin\source\repos\MovieApi\frontedens\MovieApi.Dto\bin\Debug\net9.0\MovieApi.Dto.dll
+C:\Users\yasin\source\repos\MovieApi\frontedens\MovieApi.Dto\bin\Debug\net9.0\MovieApi.Dto.pdb
+C:\Users\yasin\source\repos\MovieApi\frontedens\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\source\repos\MovieApi\frontedens\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.AssemblyInfoInputs.cache
+C:\Users\yasin\source\repos\MovieApi\frontedens\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.AssemblyInfo.cs
+C:\Users\yasin\source\repos\MovieApi\frontedens\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\MovieApi\frontedens\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.dll
+C:\Users\yasin\source\repos\MovieApi\frontedens\MovieApi.Dto\obj\Debug\net9.0\refint\MovieApi.Dto.dll
+C:\Users\yasin\source\repos\MovieApi\frontedens\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.pdb
+C:\Users\yasin\source\repos\MovieApi\frontedens\MovieApi.Dto\obj\Debug\net9.0\ref\MovieApi.Dto.dll
